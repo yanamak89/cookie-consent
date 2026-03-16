@@ -17,7 +17,7 @@ https://roadmap.sh/projects/cookie-consent
 - JavaScript
 
 ## Live Demo
-Add your live project link here
+https://yanamak89.github.io/cookie-consent/
 
 ## How to Run
 1. Clone the repository
